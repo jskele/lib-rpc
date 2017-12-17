@@ -1,1 +1,1 @@
-RPC library
+RPC library for Jskele
